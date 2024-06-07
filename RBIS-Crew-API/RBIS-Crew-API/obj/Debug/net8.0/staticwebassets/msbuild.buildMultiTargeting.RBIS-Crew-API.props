@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RBIS-Crew-API.props" />
+</Project>
